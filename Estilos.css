@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to bottom, rgb(29, 156, 197), #9999);
+    scroll-padding-top: 150px;
+}
+
+bg-gradient{
+    background: linear-gradient(-120deg, rgb(29, 156, 197), #9999)!important;
+}
+
+
+.bg_card{
+    background: linear-gradient(-120deg, rgb(29, 156, 197), #9999)!important; 
+}
+
+.menu_ativo{
+    color: rgba(0, 255, 200, 0.678) !important; 
+
+}
+.botao{
+    text-align: center;
+    margin-left: auto;
+    
+}
+
